@@ -1,3 +1,4 @@
+name: Actions - Push to Master & show "200 OK!"
 on:
   push:
     branches:
@@ -5,6 +6,13 @@ on:
 
 jobs:
   print_master:
+    name: print_master
+    
+    
     runs-on: ubuntu-latest
+    
+    
     steps:
-      - run: echo "200 OK!"
+      - name: Push Master
+      - run: |
+         echo "200 OK!"
