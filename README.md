@@ -16,4 +16,4 @@
 - Documentacion del proceso (Parcial o completo)
 - Bonus track: URL de la aplicación
 
-## -By: Ale & Grace! ♥☻M
+## -By: Ale & Grace! ♥☻
